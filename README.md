@@ -26,9 +26,6 @@ Full-Stack Storage Management App. This project is bulit with MERN (MongoDB, Exp
 
 - Express.js
 - Mongoose
-- CORS
-- Dotenv
-- Nodemon
 
 ## Installation and Usage
 
